@@ -24,7 +24,6 @@
 
 
 
-
 const game = {
   title: 'Guess the Number!',
   biggestNum: 100,
@@ -64,3 +63,4 @@ const game = {
       }
     }
 game.play()
+
