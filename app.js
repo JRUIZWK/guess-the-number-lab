@@ -58,8 +58,7 @@ const game = {
           this.prevGuesses.push(this.getGuesses())
           this.render()
         }
-        this.render()
-        return this.secretNum;
+        return
       }
     }
 game.play()
